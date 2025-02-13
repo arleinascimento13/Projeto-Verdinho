@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.11">
   <diagram name="Page-1" id="qQFrpF6dce2cD-MA6rXe">
-    <mxGraphModel dx="3896" dy="3688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="-1206" dy="1183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -338,11 +338,6 @@
         <mxCell id="T3gcn7meiSQSCldg2xHH-444" value="&lt;div&gt;ENCAMINHA&amp;nbsp;&lt;/div&gt;&lt;div&gt;PARA ADOÇÃO&lt;/div&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=label;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4816.68" y="1216" width="166.67" height="100" as="geometry" />
         </mxCell>
-        <UserObject label="Link" link="https://www.draw.io" id="T3gcn7meiSQSCldg2xHH-445">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" parent="1" vertex="1">
-            <mxGeometry x="4330" y="616" width="60" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
